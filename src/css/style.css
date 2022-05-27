@@ -1,0 +1,22 @@
+@import url('./navbar.css');
+@import url('./header.css');
+@import url('./select.css');
+@import url('./cards.css');
+@import url('./footer.css');
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0 ;
+}
+
+body{
+    font-family: 'Inter', sans-serif; 
+}
+
+.container {
+    max-width: 1100px;
+    margin: auto;
+}
+
